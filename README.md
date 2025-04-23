@@ -1,2 +1,2 @@
-# EOPF-BiDS2025-
+# EOPF-BiDS25
 Tutorial for BiDS25
